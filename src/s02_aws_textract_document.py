@@ -14,8 +14,8 @@ from PIL import Image, ImageDraw, ImageFont
 
 
 session = boto3.Session(
-    aws_access_key_id='AKIATALN65K7CDEA7UPA',
-    aws_secret_access_key='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',
+    aws_access_key_id='',
+    aws_secret_access_key='',
     region_name='eu-west-1'
 )
 
